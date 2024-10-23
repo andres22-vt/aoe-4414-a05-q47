@@ -47,6 +47,6 @@ divs = 0 #no formula or it
 print(int(c_out)) # output channel count
 print(int(h_out)) # output height count
 print(int(w_out)) # output width count
-print(int(num_of_mult))  # number of additions performed
-print(int(num_of_additions))  # number of multiplications performed
+print(int(num_of_mult))  # number of mults performed
+print(int(num_of_additions))  # number of additions performed
 print(int(divs))  # number of divisions performed
